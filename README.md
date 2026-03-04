@@ -4,6 +4,14 @@
 
 这是对 [Andrej Karpathy](https://github.com/karpathy) “原子级” Python（https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95 ） 实现的直接移植。仅使用 Node.js 标准库 + ES5 语法，演示 Transformer 的核心算法——自动求导、注意力机制和优化器。**单文件 ~456 行，每一行都能看懂。**
 
+## 可视化预览
+<img width="1530" height="436" alt="image" src="https://github.com/user-attachments/assets/dc65bd2e-9e92-4497-8630-0b275ff2da86" />
+<img width="1534" height="689" alt="image" src="https://github.com/user-attachments/assets/8f5c1e3d-76db-419f-ba6b-da18427b7e9b" />
+<img width="1538" height="740" alt="image" src="https://github.com/user-attachments/assets/b36fec94-9f77-42fa-82db-8b89a2cd44f8" />
+<img width="1535" height="734" alt="image" src="https://github.com/user-attachments/assets/4150cd69-1975-420a-ac02-878d64343bf8" />
+<img width="1542" height="741" alt="image" src="https://github.com/user-attachments/assets/799053e2-f747-4b09-b089-58d060b3ba35" />
+<img width="1554" height="539" alt="image" src="https://github.com/user-attachments/assets/e5613ab6-0610-484a-879f-f0a3575dabab" />
+
 
 ## 🌟 特性
 
